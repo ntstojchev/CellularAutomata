@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23375B14-5740-4EF4-A2B6-1A3773AF990E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Automata</RootNamespace>
+    <AssemblyName>Automata</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cell.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stone_texture_by_jamerific3d-d3j03l8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path12.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path15.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\path16.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

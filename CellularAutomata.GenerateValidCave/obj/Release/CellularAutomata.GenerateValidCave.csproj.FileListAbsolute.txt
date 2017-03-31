@@ -1,0 +1,16 @@
+E:\Git\CellularAutomata\Automata\bin\Release\Automata.exe.config
+E:\Git\CellularAutomata\Automata\bin\Release\Automata.exe
+E:\Git\CellularAutomata\Automata\bin\Release\Automata.pdb
+E:\Git\CellularAutomata\Automata\obj\Release\CellularAutomata.GenerateValidCave.csprojResolveAssemblyReference.cache
+E:\Git\CellularAutomata\Automata\obj\Release\Automata.Properties.Resources.resources
+E:\Git\CellularAutomata\Automata\obj\Release\CellularAutomata.GenerateValidCave.csproj.GenerateResource.Cache
+E:\Git\CellularAutomata\Automata\obj\Release\Automata.exe
+E:\Git\CellularAutomata\Automata\obj\Release\Automata.pdb
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\bin\Release\Automata.exe.config
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\obj\Release\Automata.exe
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\obj\Release\Automata.pdb
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\bin\Release\Automata.exe
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\bin\Release\Automata.pdb
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\obj\Release\CellularAutomata.GenerateValidCave.csprojResolveAssemblyReference.cache
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\obj\Release\Automata.Properties.Resources.resources
+E:\Git\CellularAutomata\CellularAutomata.GenerateValidCave\obj\Release\CellularAutomata.GenerateValidCave.csproj.GenerateResource.Cache

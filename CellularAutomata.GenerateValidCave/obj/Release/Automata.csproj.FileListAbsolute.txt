@@ -1,0 +1,14 @@
+E:\My Projects\C#\RandomizeMap\Automata\bin\Release\Automata.exe.config
+E:\My Projects\C#\RandomizeMap\Automata\bin\Release\Automata.exe
+E:\My Projects\C#\RandomizeMap\Automata\bin\Release\Automata.pdb
+E:\My Projects\C#\RandomizeMap\Automata\obj\Release\Automata.exe
+E:\My Projects\C#\RandomizeMap\Automata\obj\Release\Automata.pdb
+E:\My Projects\C#\RandomizeMap\Automata\obj\Release\Automata.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\RandomizeMap\Automata\obj\Release\Automata.Properties.Resources.resources
+E:\My Projects\C#\RandomizeMap\Automata\obj\Release\Automata.csproj.GenerateResource.Cache
+E:\My Projects & Lectures\C#\RandomizeMap\Automata\bin\Release\Automata.exe.config
+E:\My Projects & Lectures\C#\RandomizeMap\Automata\obj\Release\Automata.exe
+E:\My Projects & Lectures\C#\RandomizeMap\Automata\obj\Release\Automata.pdb
+E:\Git\CellularAutomata\Automata\bin\Release\Automata.exe.config
+E:\Git\CellularAutomata\Automata\obj\Release\Automata.exe
+E:\Git\CellularAutomata\Automata\obj\Release\Automata.pdb
